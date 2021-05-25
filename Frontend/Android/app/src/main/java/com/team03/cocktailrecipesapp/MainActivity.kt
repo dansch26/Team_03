@@ -15,7 +15,6 @@ import com.team03.cocktailrecipesapp.ui.login.LoginActivity
 import kotlinx.android.synthetic.main.progress_indicator.*
 import kotlinx.android.synthetic.main.error_msg_indicator.*
 
-import kotlinx.android.synthetic.main.trending_cocktail_list.*
 import kotlinx.android.synthetic.main.trending_cocktail_list_card.view.*
 import java.util.*
 
